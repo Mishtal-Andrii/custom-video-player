@@ -1,4 +1,5 @@
 ## Custom Video Player
+[DEMO LINK](https://mishtal-andrii.github.io/custom-video-player/)
 
 Custom video player using the HTML5 video element and it's JavaScript API with a custom design
 
